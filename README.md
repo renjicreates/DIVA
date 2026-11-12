@@ -1,12 +1,12 @@
- DIVA — Fashion & Lifestyle Brand
+## DIVA — Fashion & Lifestyle Brand
 
 Welcome to **DIVA**, a fashion and lifestyle website created to showcase elegant fashion, luxury accessories, jewellery, handbags and beauty products.
 
-🌸 About the Project
+## 🌸 About the Project
 
 DIVA is a website project designed to present fashionable products through an attractive and user-friendly interface. It features product collections, brand information and contact details.
 
-📁 Project Files
+## 📁 Project Files
 
 | File | Description |
 |---|---|
